@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Dahec Studios</title>
+	<founding-date>September 1, 2020</founding-date>
+	<website>https://hectorfranca.github.io/dahecstudios</website>
+	<based-in>Santa Catarina, Brazil</based-in>
+	
+	<press-contact>hectorjuliomartinsdefranca2@gmail.com</press-contact>
+	<phone>+55 (53) 9 8107-9259</phone>
+
+	<socials>
+		<social>
+			<name>Linkedin</name>
+			<link>https://www.linkedin.com/in/hectorfranca</link>
+		</social>
+	</socials>
+
+	<description>	
+		Dahec Studios is an independent developer. We idealize our ideas into games.
+	</description>
+	
+	<quotes>
+		<quote>
+			<description>Programmer</description>
+			<name>Héctor França</name>
+			<website>GitHub</website>
+			<link>https://github.com/hectorfranca</link>
+		</quote>
+		<quote>
+			<description>Artist and project creator</description>
+			<name>Darliane Santana</name>
+			<website>Linkedin</website>
+			<link>https://www.linkedin.com/in/darliane-santana-761bb7238</link>
+		</quote>
+	</quotes>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	
+	<credits>
+		<credit>
+			<person>Héctor França</person>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Darliane Santana</person>
+			<website>https://www.linkedin.com/in/darliane-santana-761bb7238</website>
+			<role>Artist</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Héctor França</name>
+			<mail>hectorjuliomartinsdefranca2@gmail.com</mail>
+		</contact>
+	</contacts>
+</game>
